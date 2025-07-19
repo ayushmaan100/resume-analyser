@@ -85,12 +85,27 @@ Open http://localhost:5173 to view the app.
 	✅ Resume validation using regex + file type check
 
 
-Contacts
+## 📬 Contact Me
 
-💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/ayushmaan-tiwari-61126916b/)
-🌐 Portfolio: [yourportfolio.com](https://portfolio-orpin-three-46.vercel.app/)
-✉️ Email: ayushmaan.at2004@gmail.com
+<div align="center">
 
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a>
+
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FFA500?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge" />
+  </a>
+
+</div>
 
 📜 License
 
