@@ -7,7 +7,7 @@
 
   <p>
     Smart, browser-based resume analysis using AI, React, and Puter.js.<br />
-    No backend. Realtime feedback. ATS score. Built with ❤️ for developers.
+    No backend. Real-time feedback. ATS score. Built with ❤️ for developers.
   </p>
 
   <div>
@@ -78,14 +78,14 @@ Open http://localhost:5173 to view the app.
 ├── App.tsx
 └── index.tsx
 
-## 🧩 Extra Improvements
-	🔄 Auto-save latest resume state to local storage
+ 🧩 Extra Improvements
+	🔄 Auto-save the latest resume state to local storage
 	🌙 Dark mode toggle (optional)
 	🧠 GPT & Claude-powered feedback (via Puter AI)
 	✅ Resume validation using regex + file type check
 
 
-## Contacts
+Contacts
 
 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/ayushmaan-tiwari-61126916b/)
 🌐 Portfolio: [yourportfolio.com](https://portfolio-orpin-three-46.vercel.app/)
