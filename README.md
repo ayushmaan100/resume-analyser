@@ -78,15 +78,18 @@ Open http://localhost:5173 to view the app.
 ├── App.tsx
 └── index.tsx
 
-🧩 Extra Improvements
-	•	🔄 Auto-save latest resume state to local storage
-	•	🌙 Dark mode toggle (optional)
-	•	🧠 GPT & Claude-powered feedback (via Puter AI)
-	•	✅ Resume validation using regex + file type check
+## 🧩 Extra Improvements
+	🔄 Auto-save latest resume state to local storage
+	🌙 Dark mode toggle (optional)
+	🧠 GPT & Claude-powered feedback (via Puter AI)
+	✅ Resume validation using regex + file type check
 
-  💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/ayushmaan-tiwari-61126916b/)
-	🌐 Portfolio: [yourportfolio.com](https://portfolio-orpin-three-46.vercel.app/)
-	✉️ Email: ayushmaan.at2004@gmail.com
+
+## Contacts
+
+💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/ayushmaan-tiwari-61126916b/)
+🌐 Portfolio: [yourportfolio.com](https://portfolio-orpin-three-46.vercel.app/)
+✉️ Email: ayushmaan.at2004@gmail.com
 
 
 📜 License
