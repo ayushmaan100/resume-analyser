@@ -65,3 +65,35 @@ npm install
 
 # Start development server
 npm run dev
+
+Open http://localhost:5173 to view the app.
+
+📁 Project Structure
+├── public/            # Static assets
+├── src/
+│   ├── components/    # UI components
+│   ├── pages/         # Route-based pages
+│   ├── utils/         # Helpers & services
+│   └── store/         # Zustand store
+├── App.tsx
+└── index.tsx
+
+🧩 Extra Improvements
+	•	🔄 Auto-save latest resume state to local storage
+	•	🌙 Dark mode toggle (optional)
+	•	🧠 GPT & Claude-powered feedback (via Puter AI)
+	•	✅ Resume validation using regex + file type check
+
+  💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/ayushmaan-tiwari-61126916b/)
+	🌐 Portfolio: [yourportfolio.com](https://portfolio-orpin-three-46.vercel.app/)
+	✉️ Email: ayushmaan.at2004@gmail.com
+
+
+📜 License
+
+MIT License © Ayushmaan
+---
+
+Let me know if you’d like a downloadable `.md` file or if I should include this README in your project ZIP!
+
+	
